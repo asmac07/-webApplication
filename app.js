@@ -33,4 +33,4 @@ app.use("/admin", adminRoutes)
 
 app.listen(process.env.PORT, () => {
     console.log("server started")
-})
+}) 
